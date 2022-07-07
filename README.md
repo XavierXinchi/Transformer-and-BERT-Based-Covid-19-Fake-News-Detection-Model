@@ -1,4 +1,4 @@
-# README
+# Intro
 
 During the past few years, the whole world has been swept by the Covid-19 epidemic, during which a lot of fake news appeared. Thus, we aimed to build a model which can quickly and efficiently identify misinformation about Covid-19 to combat the global infodemic.
 
